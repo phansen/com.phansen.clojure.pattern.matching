@@ -115,6 +115,12 @@ This will print "v: 1".  The pattern `(T _ _v (E))` will always match whatever i
 only if it is an `E`.  Note that the patterns will be matched against the fields in the order the fields
 were declared in `def-adt` or `extend-adt`. 
 
+## Examples
+
+For more complete examples please refer to the testing files
+* com.phansen.clojure.pattern.matching.test.core - contains definitions of fibonnaci functions
+* com.phansen.clojure.pattern.matching.test.avl_trees - implements avl trees
+
 ## Installation
 
 You can get `clojure.pattern.matching-1.0.0.jar` from the [Clojars repository](http://clojars.org/com.phansen/clojure.pattern.matching).
