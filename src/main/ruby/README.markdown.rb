@@ -8,7 +8,7 @@ A pattern matching library for Clojure inspired by OCaml and Haskell pattern mat
 
 ## Dependencies
 
-This library depends [com.phansen.clojure.adt](https://github.com/phansen/com.phansen.clojure.adt) library.  
+This library depends on [com.phansen.clojure.adt](https://github.com/phansen/com.phansen.clojure.adt) library.  
 
     <repository>
   	  <id>clojars.org</id>
