@@ -114,8 +114,11 @@ were declared in `def-adt` or `extend-adt`.
 ## Examples
 
 For more complete examples please refer to the testing files
-* com.phansen.clojure.pattern.matching.test.core - contains definitions of fibonnaci functions
-* com.phansen.clojure.pattern.matching.test.avl_trees - implements avl trees
+
+com.phansen.clojure.pattern.matching.test.core 
+   	contains definitions of fibonnaci functions
+com.phansen.clojure.pattern.matching.test.avl_trees 
+	implements `member` and `insert` for avl trees
 
 ## Installation
 
