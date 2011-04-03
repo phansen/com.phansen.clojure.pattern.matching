@@ -113,7 +113,7 @@ were declared in `def-adt` or `extend-adt`.
 
 ## Installation
 
-You can get `clojure.pattern.matching-1.0.0.jar` from the [Clojars repository](http://clojars.org/com.phansen/clojure.adt).
+You can get `clojure.pattern.matching-1.0.0.jar` from the [Clojars repository](http://clojars.org/com.phansen/clojure.pattern.matching).
 Using maven use the following elements
 
 	<repository>
@@ -123,13 +123,9 @@ Using maven use the following elements
 
 	<dependency>
       <groupId>com.phansen</groupId>
-  	  <artifactId>clojure.adt</artifactId>
+  	  <artifactId>clojure.pattern.matching</artifactId>
   	  <version>1.0.0</version>
 	</dependency>
-
-## Development
-
-
 
 ## Thanks
 
